@@ -1,4 +1,5 @@
 Best Practices Highlighted:
+
 Indentation: Used four spaces per indentation level.
 Line Length: Lines are limited to 80 characters, broken into multiple lines where necessary.
 Braces: Braces are used for all control structures, even single statements.
